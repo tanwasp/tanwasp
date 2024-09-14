@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **ML and Deep Learning.**
 
-- 👨‍💻 All of my projects are available at [https://tanwasp.github.io/portfolio/](https://tanwasp.github.io/portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://tanwasp.github.io/portfolio/](https://tanwasp.github.io/portfolio/) -->
 
-- 💬 Ask me about **AI, Android Development and anything related to Backend Development**
+- 💬 Ask me about **AI, Android Development, Backend Development and Quantum Physics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
