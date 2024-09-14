@@ -1,11 +1,11 @@
 <p align="center">
 
-<img width="1000" height="400" src="https://github.com/tanwasp/LunchBox-Android/assets/122619788/b4b707e8-dcab-4778-9137-c5c2512a08ab" alt="my banner">
+<!-- <img width="1000" height="400" src="https://github.com/tanwasp/LunchBox-Android/assets/122619788/b4b707e8-dcab-4778-9137-c5c2512a08ab" alt="my banner"> -->
 
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanish </h1>
-<h4 align="center">A sophomore, studying Computer Science and Physics at Vassar College.</h4>
+<h4 align="center">I'm a junior, double majoring in Computer Science and Physics at Vassar College.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwasp&label=Profile%20views&color=0e75b6&style=flat" alt="tanwasp" /> </p>
 
